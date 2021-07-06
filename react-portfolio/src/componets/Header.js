@@ -1,7 +1,9 @@
 import React from "react";
+import '../styles/Header.css';
 
-function ShowPortfolio() {
+function Header() {
   return (
+    <header>
     <nav class="navbar navbar-light bg-light">
             <div className="container-fluid nav-container flex-row">
                 <div id="about-me">
@@ -15,7 +17,9 @@ function ShowPortfolio() {
                 </div>
             </div>
           </nav>
+    </header>
+    
   );
 }
 
-export default ShowPortfolio;
+export default Header;
