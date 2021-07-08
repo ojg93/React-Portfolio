@@ -117,15 +117,15 @@ h1{
     flex-wrap: wrap;
     flex-direction: column;
     border-style: solid;
-    margin-left: 725px;
 }
 
 #contact-me-info{
     border-style: solid;
     margin-right: 500px;
     padding-top: 10px;
+    
+    /* bottom: 1100px; */
     transition: all .2s ease-in-out;
-    margin-left: 725px;
 }
 
 .card6:hover { transform: scale(1.1); }

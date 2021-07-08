@@ -3,17 +3,17 @@ import '../styles/Footer.css';
 
 function Footer() {
   return (
-    <div id="contact-me-info" class="container footer">
+    <div id="contact-me-info" className="container footer">
     <h3 id="footer-h3">
       Contact Me:
     </h3>
-    <p class="footer-text">
+    <p className="footer-text">
       Email:ojgrampus@gmail.com
     </p>
-    <p class="footer-text">
+    <p className="footer-text">
       Work Phone: 800-888-8888
     </p>
-    <p class="footer-text">
+    <p className="footer-text">
       linkedin: 
     </p>
   </div>

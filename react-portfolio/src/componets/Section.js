@@ -4,12 +4,10 @@ import '../styles/Sections.css';
 
 function sections() {
     return (
-        <section className="container h1-container">
-            <div>
+            <div className="container h1-container">
               <p id="span-text">Welcome To The World Of</p>
               <h1>Omari Grampus</h1>
-            </div>
-            <div id="about-me-info">
+              <div id="about-me-info">
                 <h3>About Me</h3>
                   <p>
                   I am a 27 year old full stax student currently enrolled at Georgia Tech. During the beginning of COVID, I took free online
@@ -18,8 +16,10 @@ function sections() {
                   I enjoy coding and learning and want to advance myself into a new carrer. I know the road will be hard but im excited and willing
                   to put the work in and see where my journey takes me! 
                   </p>
-            </div>
-        </section>   
+             </div>  
+          </div>
+
+            
     );
   }
       

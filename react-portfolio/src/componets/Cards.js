@@ -3,7 +3,7 @@ import '../styles/Cards.css';
 
 function Cards() {
   return (
-    <div class= "container" id="work-info">
+                <div className= "container" id="work-info">
                    <div className="card-body card1">
                      <h4 className="card-title">Scratch Activity</h4>
                      <a href="https://scratch.mit.edu/projects/474156972" className="card-link card-links">https://scratch.mit.edu/projects/474156972</a>
