@@ -182,6 +182,8 @@ h1{
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
+    position: relative;
+    bottom: 670px;
     
 }
 

@@ -117,6 +117,8 @@ h1{
     flex-wrap: wrap;
     flex-direction: column;
     border-style: solid;
+    position: relative;
+    bottom: 670px;
 }
 
 #contact-me-info{
